@@ -3,8 +3,8 @@ Aplicación web creada con lenguaje Ruby en framewoks Rails.
 Link de la aplicación -> https://ofertaslaborales.herokuapp.com
 
 Datos para Iniciar Sesión:
-Login Personas
 
+Login Personas
       email: "correopersona@TR1.cl",
       password: 123456
 
