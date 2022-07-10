@@ -39,20 +39,20 @@ Empresa.create(
   [
     {
       rut: "76767676-7",
-      email: "hola@TR1.cl",
+      email: "correoempresa@TR1.cl",
       password: 123456,
       razon_social: "AIEP",
-      representante: "Ana",
-      direccion: "Calle Falsa 321",
+      representante: "Abraham",
+      direccion: "Calle 13",
       telefono: 888888888,
     },
     {
       rut: "69696969-6",
       email: "admin@TR1.cl",
       password: 123456,
-      razon_social: "Inacap",
+      razon_social: "dd",
       representante: "Juan",
-      direccion: "Avenida Falsa 321",
+      direccion: "Avenida hola",
       telefono: 999999999,
     },
 
@@ -63,7 +63,7 @@ Persona.create(
   [
     {
       rut: "33333333-1",
-      email: "usuario@uno.cl",
+      email: "correopersona@TR1.cl",
       password: 123456,
       nombre: "Usuario1",
       fnac: "1988-04-25",
