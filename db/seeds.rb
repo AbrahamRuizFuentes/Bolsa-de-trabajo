@@ -88,8 +88,8 @@ Persona.create(
   Oferta.create(
     [
       {
-        cargo: "Programador",
-        descripcion: "Requerimos a estudiantes que necesiten realizar su practica para desarrollar un e-commerce",
+        cargo: "Ingeniero de Servicios",
+        descripcion: "Requerimos ingenbiero de servicios para desarrollar un e-commerce",
         cant_vacantes: 20,
         salario_min: 1100000,
         salario_max: 1500000,
@@ -98,7 +98,7 @@ Persona.create(
         fecha_inicio: "2022-07-04 17:55:01",
       },
       {
-        cargo: "Informático",
+        cargo: "Ingeniero de Aplicaciones",
         descripcion: "Estamos buscando interesados en desarrollar y mantener nuestro ERP",
         cant_vacantes: 6,
         salario_min: 800000,
@@ -108,7 +108,7 @@ Persona.create(
         fecha_inicio: "2022-07-03 17:55:01",
       },
       {
-        cargo: "Maquetador Web Angular",
+        cargo: "Roby on Rails developer",
         descripcion: "Precisamos incorporar a nuestro equipo 2 Maquetadores web con experiencia en Angular",
         cant_vacantes: 6,
         salario_min: 600000,
@@ -118,7 +118,7 @@ Persona.create(
         fecha_inicio: "2022-07-02 17:55:01",
       },
       {
-        cargo: "Técnico de Apoyo",
+        cargo: " desarrollador",
         descripcion: "Busco personal para el apoyo en el desarrollo de aplicaciónes web trabajando en equipo y bajo presión",
         cant_vacantes: 8,
         salario_min: 500000,
@@ -135,11 +135,11 @@ Persona.create(
   Oferta.create(
     [
       {
-        cargo: "Diseñador",
-        descripcion: "Se buscan front-end developer para realizar interfaces moviles a tiempo completo.",
+        cargo: "Programador",
+        descripcion: " Requerimos programador front end para realizar interfaces moviles a tiempo completo.",
         cant_vacantes: 5,
-        salario_min: 350000,
-        salario_max: 550000,
+        salario_min: 500000,
+        salario_max: 700000,
 		modalidad_id: 2,
 		region_id: 11,
         fecha_inicio: "2022-06-30 17:55:01",
