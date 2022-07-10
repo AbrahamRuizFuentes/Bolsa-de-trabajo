@@ -1,16 +1,11 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-h1 { font-style: center; color: rgb(135, 170, 6);
+h1 { font-style: text-align: center; color: rgb(135, 170, 6);
 }
 
-h2 { font-style: center; color: rgb(135, 170, 6);
+h2 { font-style: text-align: center; color: rgb(135, 170, 6);
 }
 
-h3 { font-style: oblique; size: 0.2cm; color: black;
+h3 { font-style: text-align: center; size: 0.2cm; color: black;
 }
 
-body {
-    background-image: url(app\assets\images\fondo1.jpg);
-   
-    color: #333;
-    margin: 33px; }
