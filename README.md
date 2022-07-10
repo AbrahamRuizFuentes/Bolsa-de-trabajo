@@ -1,4 +1,4 @@
-# Ver en Linea (Heroku): [bolsa-laboral.herokuapp.com](https://bolsa-laboral.herokuapp.com/)
+# Ver en Linea (Heroku): [bolsa-laboral.herokuapp.com](https://ofertaslaborales.herokuapp.com/)
 
 # Datos para Iniciar Sesión:
 
