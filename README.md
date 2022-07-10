@@ -4,12 +4,10 @@
 
 ## Login Personas
 
-      email: "usuario@dos.cl",
+      email: "correopersona@TR1.cl",
       password: 123456
 
 ## Login Empresas
-      email: "admin@inacap.cl",
+      email: "correoempresa@TR1.cl",
       password: 123456
 
-
-© Gabriel Chávez
