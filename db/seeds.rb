@@ -38,8 +38,8 @@ Region.create([
 Empresa.create(
   [
     {
-      rut: "11111111-1",
-      email: "admin@aiep.cl",
+      rut: "12345678-9",
+      email: "admin@TR1.cl",
       password: 123456,
       razon_social: "AIEP",
       representante: "Ana",
@@ -47,8 +47,8 @@ Empresa.create(
       telefono: 888888888,
     },
     {
-      rut: "22222222-2",
-      email: "admin@inacap.cl",
+      rut: "99999999-9",
+      email: "admin@TR1.cl",
       password: 123456,
       razon_social: "Inacap",
       representante: "Juan",
